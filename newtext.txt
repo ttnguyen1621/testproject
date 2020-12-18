@@ -1,0 +1,16 @@
+cd DIRECTORY 		- open the DIRECTORY/folder
+dir/ls			- show files in folder
+
+
+git init		- initialize git in the folder
+git add FILE		- add FILE to be watched by git
+git commit -m "TEXT"	- commit FILE with TEXT as comments
+
+git branch		- show branches
+git checkout BRANCH	- go to BRANCH
+git checkout -b BRANCH	- create and go to BRANCH
+git merge BRANCH	- merge BRANCH to current branch
+
+
+git remote origin URL	- sets the origin to the (Github prob) URL
+git push origin BRANCH	- pushes BRANCH to online origin
